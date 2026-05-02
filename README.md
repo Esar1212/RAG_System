@@ -49,6 +49,13 @@ An AI-powered document assistant that enables users to upload PDFs and ask natur
 
 ## 📸 Demo
 
+
+
+https://github.com/user-attachments/assets/8749a5a9-ee6a-4e2e-9a6d-cbd8d81c888b
+
+
+
+
 ### Example Queries:
 - "Explain adjacency list representation"
 - "What projects are mentioned in the document?"

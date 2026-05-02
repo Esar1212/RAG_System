@@ -1,0 +1,14 @@
+langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+sentence-transformers
+faiss-cpu
+chromadb
+langchain-groq
+google-genai
+python-dotenv
+langchain_openai
+langchain_experimental
+fastapi

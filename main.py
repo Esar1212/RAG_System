@@ -62,7 +62,7 @@ def main():
             generator = RGenerator()
             response = generator.generate_answer(
                 query,
-                [doc["content"] for doc in retrieved_docs]   # ✅ FIXED
+                [doc["content"] for doc in retrieved_docs]   
             )
 
             # Step 4: Print result

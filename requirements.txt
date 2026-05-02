@@ -12,3 +12,4 @@ python-dotenv
 langchain_openai
 langchain_experimental
 fastapi
+streamlit

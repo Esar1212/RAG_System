@@ -46,6 +46,10 @@ An AI-powered document assistant that enables users to upload PDFs and ask natur
 - **Document Processing**: PyMuPDF, LangChain  
 
 ---
+## Live URL
+
+https://ragsystem01.streamlit.app/
+
 
 ## 📸 Demo
 

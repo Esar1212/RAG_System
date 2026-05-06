@@ -68,7 +68,7 @@ https://github.com/user-attachments/assets/8749a5a9-ee6a-4e2e-9a6d-cbd8d81c888b
 ---
 
 ## ⚙️ Setup
-
+set up an .env file containing your GROQ_API_KEY
 ```bash
 uv add -r requirements.txt
 uv sync

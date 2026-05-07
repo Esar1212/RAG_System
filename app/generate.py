@@ -36,7 +36,7 @@ load_dotenv()
 import os
 from typing import List, Dict, Any
 from langchain_groq import ChatGroq
-
+import streamlit as st
 
 class RGenerator:
     def __init__(
@@ -46,7 +46,7 @@ class RGenerator:
         max_tokens: int = 1024
     ):
         # self.groq_api_key = os.getenv("GROQ_API_KEY")  # Please use this statement under development environment when you have the .env file in the directory
-          self.groq_api_key = st.secrets["GROQ_API_KEY"]
+        self.groq_api_key = st.secrets["GROQ_API_KEY"]
         if not self.groq_api_key:
             raise ValueError("GROQ_API_KEY not found in environment variables")
 
